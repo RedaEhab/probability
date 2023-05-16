@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\proj.pro\proj.pro\bin\Debug\proj.pro.exe.config
+C:\Users\user\Desktop\proj.pro\proj.pro\bin\Debug\proj.pro.exe
+C:\Users\user\Desktop\proj.pro\proj.pro\bin\Debug\proj.pro.pdb
+C:\Users\user\Desktop\proj.pro\proj.pro\obj\Debug\proj.pro.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\proj.pro\proj.pro\obj\Debug\proj.pro.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\proj.pro\proj.pro\obj\Debug\proj.pro.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\proj.pro\proj.pro\obj\Debug\proj.pro.exe
+C:\Users\user\Desktop\proj.pro\proj.pro\obj\Debug\proj.pro.pdb
